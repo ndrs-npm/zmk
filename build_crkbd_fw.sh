@@ -1,4 +1,19 @@
+## file: build_crkbd_fw.sh
+## brief: Script to build ZMK firmware for Corne keyboard (left and right sides)
+
 # ------------------------------------------------------------------------------------------------ #
+# INTRODUCTION: Build ZMK firmware for Corne keyboard (left, right, or settings reset).
+#               Usage: ./build_crkbd_fw.sh [left|right|reset]
+#
+# AUTHOR(S): honest
+#
+# REFERENCES DOCUMENTS :
+# - ZMK Firmware: https://zmk.dev/docs
+# - ZMK Local toolchain setup: https://zmk.dev/docs/development/local-toolchain/setup
+# - ZMK Building and flashing: https://zmk.dev/docs/development/local-toolchain/build-flash
+#
+# NOTE:
+# - N/A
 #
 # ------------------------------------------------------------------------------------------------ #
 
